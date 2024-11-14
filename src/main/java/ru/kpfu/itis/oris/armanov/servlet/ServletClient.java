@@ -1,6 +1,6 @@
-package ru.kpfu.itis.oris.armanov.http.server;
+package ru.kpfu.itis.oris.armanov.servlet;
 
-import ru.kpfu.itis.oris.armanov.http.impl.HttpClient;
+import ru.kpfu.itis.oris.armanov.util.impl.HttpClient;
 
 import java.util.Map;
 import java.util.HashMap;

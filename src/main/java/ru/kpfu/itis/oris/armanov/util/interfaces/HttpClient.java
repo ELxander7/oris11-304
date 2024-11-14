@@ -1,4 +1,4 @@
-package ru.kpfu.itis.oris.armanov.http.interfaces;
+package ru.kpfu.itis.oris.armanov.util.interfaces;
 
 import java.util.Map;
 

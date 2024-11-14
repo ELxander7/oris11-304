@@ -1,4 +1,4 @@
-package ru.kpfu.itis.oris.armanov.http.impl;
+package ru.kpfu.itis.oris.armanov.util.impl;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
@@ -12,7 +12,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Map;
 import java.net.URL;
 
-public class HttpClient implements ru.kpfu.itis.oris.armanov.http.interfaces.HttpClient {
+public class HttpClient implements ru.kpfu.itis.oris.armanov.util.interfaces.HttpClient {
 
 
     @Override

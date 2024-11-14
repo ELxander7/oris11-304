@@ -1,4 +1,4 @@
-package ru.kpfu.itis.oris.armanov.http;
+package ru.kpfu.itis.oris.armanov.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;
